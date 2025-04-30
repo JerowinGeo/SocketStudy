@@ -107,5 +107,5 @@ SERVER:
 
 
 ## Result:
-Thus the study of Socket Programming Completed Successfully
+Thus the study of Socket Programming Completed Successfully.
 
